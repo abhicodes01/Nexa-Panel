@@ -1,4 +1,4 @@
-import { Payment } from "./page"
+import { Payment } from "../../app/Orders/page"
 
 export const data: Payment[] = [
   {

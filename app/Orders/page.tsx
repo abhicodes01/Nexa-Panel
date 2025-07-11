@@ -5,7 +5,7 @@ import PageTitle from '@/components/PageTitle'
 import { cn } from '@/lib/utils'
 import { ColumnDef } from '@tanstack/react-table'
 import React from 'react'
-import { data } from './orders-data'
+import { data } from '../../lib/data/orders-data'
 
 type Props = {}
 export type Payment = {
